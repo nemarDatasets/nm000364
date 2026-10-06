@@ -1,0 +1,78 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Ziwei Tian": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.32189838.v1",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000364",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000364",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1016/j.yebeh.2026.111071",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1016/j.neuroimage.2026.121838",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Task-SEEG recordings from epilepsy patients performing a visual working memory task (Tian, Figshare 32189838)",
+  "license": "CC-BY-NC-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "12.53 GB (9 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv"
+  ],
+  "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Depth electrodes were placed solely according to clinical requirements, and continuous EDF recordings were sampled at 2048 Hz. The dataset supports investigation of neural mechanisms of working memory, including hippocampal and frontal eye field activity. It is a BIDS iEEG redistribution of a Figshare deposit and contains no event, behavioural, or electrode coordinate files.",
+  "methods_description": "SEEG was recorded with intracranial multi-contact depth electrodes (8-16 contacts, 0.8 mm diameter, 1.5 mm spacing) implanted stereotactically with robotic assistance. Signals were acquired with a Nicolet EEG amplifier at 2048 Hz, referenced online to a white matter site chosen by the clinical team. Participants performed a visual working memory task. EDF headers were de-identified and signal samples left unchanged.",
+  "keywords": [
+    {
+      "term": "SEEG"
+    },
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Working memory"
+    },
+    {
+      "term": "Hippocampus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
+    },
+    {
+      "term": "frontal eye field"
+    }
+  ],
+  "source_hash": "897f647c76e93f5191077c7b13657ab2208ab7eee650b05e25cda08b2543b036"
+}
