@@ -80,7 +80,8 @@ staff member, or a patient). For this copy:
 
 Dates truncated to month (day set to 01).
 
-- EDF patient field (hospital record number, sex, date of birth) set to `X X X X`. Recording field set to
+- EDF patient field set to the EDF+ form `X <sex> X X`: sex (M/F, same as participants.tsv) is kept; the hospital
+  record number and date of birth are removed. Recording field set to
   `Startdate 01-MMM-YYYY X X X` and start date to `01.MM.YY`, keeping the source year and month. The time of day is
   kept.
 - In sub-06 and sub-07, the text after `Montage:` in the EDF+ annotation signal is replaced by `X` characters of
