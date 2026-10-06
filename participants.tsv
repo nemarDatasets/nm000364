@@ -1,8 +1,8 @@
-participant_id	age	sex	education_years	seizure_onset	electrodes_frontal_eye_field	electrodes_hippocampus
-sub-01	27	M	15	Left-central-gyrus	B7-9/L10-12	F1-3
-sub-02	18	M	12	Uncertain	F7-9	H1-3
-sub-03	34	M	15	Right-hippocampus	A10-12	D1-3/L1-3
-sub-04	25	M	16	Left-occipital-lobe	A10-12	C1-3
-sub-05	23	M	18	Right-hippocampus-amygdala	D10-12	F1-3
-sub-06	20	F	9	Left-hippocampus-amygdala	C10-12	F1-3
-sub-07	56	M	9	Bilatera-medial-temporal-lobe	A10-12	D1-3/I1-3
+participant_id	age	birth_year	sex	education_years	seizure_onset	electrodes_frontal_eye_field	electrodes_hippocampus
+sub-01	27	1995	M	15	Left-central-gyrus	B7-9/L10-12	F1-3
+sub-02	18	2003	M	12	Uncertain	F7-9	H1-3
+sub-03	34	1988	M	15	Right-hippocampus	A10-12	D1-3/L1-3
+sub-04	25	1997	M	16	Left-occipital-lobe	A10-12	C1-3
+sub-05	23	2000	M	18	Right-hippocampus-amygdala	D10-12	F1-3
+sub-06	20	2002	F	9	Left-hippocampus-amygdala	C10-12	F1-3
+sub-07	56	1967	M	9	Bilatera-medial-temporal-lobe	A10-12	D1-3/I1-3

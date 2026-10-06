@@ -6,6 +6,10 @@
         "Description": "Age in years (source column 'Age').",
         "Units": "year"
     },
+    "birth_year": {
+        "Description": "Year of birth (day and month removed)",
+        "Units": "year"
+    },
     "sex": {
         "Description": "Sex (source column 'Sex': male/female).",
         "Levels": {
