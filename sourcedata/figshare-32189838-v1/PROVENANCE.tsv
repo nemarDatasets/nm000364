@@ -1,0 +1,36 @@
+source_file	size_bytes	figshare_md5	download_url	in_this_copy
+README	714	c7dc6f1d1bd3dc2f07b809a1340a6e53	https://ndownloader.figshare.com/files/64315932	included
+dataset_description.json	130	42332f177da29271f14dbfa06b47dc53	https://ndownloader.figshare.com/files/64315926	included
+participants.json	788	b5bc9729fce26bb210422c74f5b8a437	https://ndownloader.figshare.com/files/64315929	included
+participants.tsv	494	d1f51f54cc344d56ccdd9ecd8bf4c0ad	https://ndownloader.figshare.com/files/64315923	included
+sub-01_scans.tsv	89	fec317613f249a3367b4dca4b0162665	https://ndownloader.figshare.com/files/64299849	withheld (real recording dates)
+sub-01_task-task_run-01_channels.tsv	7657	8e1a09a7cddbc0f4610afe7df057eb2a	https://ndownloader.figshare.com/files/64299852	included
+sub-01_task-task_run-01_ieeg.edf	2431462656	8e268fc23dd33a9159c242c89d23dd9a	https://ndownloader.figshare.com/files/64299987	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-01_task-task_run-01_ieeg.json	491	84ebea3913baf149a33387cd0d2e454c	https://ndownloader.figshare.com/files/64299855	included
+sub-02_scans.tsv	89	4332e06a9dd078679207e1e7568632ba	https://ndownloader.figshare.com/files/64300083	withheld (real recording dates)
+sub-02_task-task_run-01_channels.tsv	7586	eafd32f45b3689ef08f6f9ee3f9ef636	https://ndownloader.figshare.com/files/64300086	included
+sub-02_task-task_run-01_ieeg.edf	2390846720	d1a75d51b8487e4c054518389d4f8d74	https://ndownloader.figshare.com/files/64300092	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-02_task-task_run-01_ieeg.json	491	66b6c2b6623bc4f7eb254ed615e31aec	https://ndownloader.figshare.com/files/64300089	included
+sub-03_scans.tsv	156	6e4670a993ac065ec00f0f110d34d4d1	https://ndownloader.figshare.com/files/64300191	withheld (real recording dates)
+sub-03_task-task_run-01_channels.tsv	7609	272b6e49048579cead8df9acb2758642	https://ndownloader.figshare.com/files/64300200	included
+sub-03_task-task_run-01_ieeg.edf	799323392	9c0fe7fe6a3ee8c27a533d526f0d0d9f	https://ndownloader.figshare.com/files/64300212	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-03_task-task_run-01_ieeg.json	491	50043a30c59dac05cea695fb3c23bda3	https://ndownloader.figshare.com/files/64300194	included
+sub-03_task-task_run-02_channels.tsv	7609	272b6e49048579cead8df9acb2758642	https://ndownloader.figshare.com/files/64300197	included
+sub-03_task-task_run-02_ieeg.edf	655121664	cc9dae0245ad380e851fa8ad055b977b	https://ndownloader.figshare.com/files/64300209	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-03_task-task_run-02_ieeg.json	491	a5ce646f2187ca2943a7dda4dd8cec57	https://ndownloader.figshare.com/files/64300203	included
+sub-04_scans.tsv	89	92ce86c6be2d5cdd662cff8871b3b81f	https://ndownloader.figshare.com/files/64300248	withheld (real recording dates)
+sub-04_task-task_run-01_channels.tsv	7608	e5bdaec81ca958f990b4e107239f4b3e	https://ndownloader.figshare.com/files/64300251	included
+sub-04_task-task_run-01_ieeg.edf	1633389824	7e50941c0e7a50b06c355f059a73e5a8	https://ndownloader.figshare.com/files/64300257	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-04_task-task_run-01_ieeg.json	491	0ffa91f737c8c09efc64046e26e11fdf	https://ndownloader.figshare.com/files/64300254	included
+sub-05_scans.tsv	89	04be63736c6775e3f51f5a8b94468c0d	https://ndownloader.figshare.com/files/64314888	withheld (real recording dates)
+sub-05_task-task_run-01_channels.tsv	7563	8729af89793b7bb06de146999f04ff63	https://ndownloader.figshare.com/files/64314891	included
+sub-05_task-task_run-01_ieeg.edf	2096040192	61bbe6d415d21f73f4151e7bdb8894f6	https://ndownloader.figshare.com/files/64314900	withheld (EDF header holds a hospital number, date of birth and recording date)
+sub-05_task-task_run-01_ieeg.json	491	85b595526ff794daac52570e5f9d0634	https://ndownloader.figshare.com/files/64314894	included
+sub-06_scans.tsv	89	ff877c3c64a0ac8e8503d5b333aebdb3	https://ndownloader.figshare.com/files/64315146	withheld (real recording dates)
+sub-06_task-task_run-01_channels.tsv	7573	d2b9179566a03d4f2c524ffd058626fe	https://ndownloader.figshare.com/files/64315149	included
+sub-06_task-task_run-01_ieeg.edf	1572524192	8dd8563f067003cd481d59d951065d61	https://ndownloader.figshare.com/files/64315155	withheld (EDF header holds a hospital number, date of birth and recording date ; EDF+ annotation holds a personal name)
+sub-06_task-task_run-01_ieeg.json	491	8fb3bb09df1d95a3fcc06f423f9654a5	https://ndownloader.figshare.com/files/64315152	included
+sub-07_scans.tsv	89	332bd5c9a5edeb5b92c2ca22c05774c7	https://ndownloader.figshare.com/files/64315680	withheld (real recording dates)
+sub-07_task-task_run-01_channels.tsv	7584	68154bfdb9dcd27fa7100c1f8caa849a	https://ndownloader.figshare.com/files/64315683	included
+sub-07_task-task_run-01_ieeg.edf	1875299424	313d81603ab0573ccc2a5cd9d05a871d	https://ndownloader.figshare.com/files/64315704	withheld (EDF header holds a hospital number, date of birth and recording date ; EDF+ annotation holds a personal name)
+sub-07_task-task_run-01_ieeg.json	491	42f8fb9e3a6b5e330d67d0b682bed012	https://ndownloader.figshare.com/files/64315686	included

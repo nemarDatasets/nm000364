@@ -1,0 +1,5 @@
+{
+    "iEEGCoordinateSystem": "Other",
+    "iEEGCoordinateUnits": "n/a",
+    "iEEGCoordinateSystemDescription": "The source (Figshare 10.6084/m9.figshare.32189838.v1) provides no electrode coordinates and no imaging. x, y and z are n/a. Contact names are those of the EDF channel labels."
+}

@@ -1,0 +1,5 @@
+{
+    "acq_time": {
+        "Description": "Acquisition start. The date is replaced by 1985-01-01 for de-identification (all runs of a participant share the same replaced date, so within-day intervals are kept); the time of day is from the source EDF header."
+    }
+}

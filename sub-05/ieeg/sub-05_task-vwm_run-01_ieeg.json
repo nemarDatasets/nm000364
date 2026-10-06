@@ -1,0 +1,21 @@
+{
+    "TaskName": "vwm",
+    "TaskDescription": "Visual working memory task performed during clinical SEEG monitoring. The Figshare record refers to 'the accompanying research article' for the paradigm; no event or behavioural files are part of the source (see README).",
+    "Manufacturer": "Nicolet",
+    "SamplingFrequency": 2048.0,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 3457.5625,
+    "RecordingType": "continuous",
+    "iEEGReference": "Online reference: a white matter site selected by the clinical team (Figshare record).",
+    "ElectrodeManufacturer": "Huake-Hengsheng Medical Technology, Beijing, China",
+    "iEEGPlacementScheme": "Multi-contact depth electrodes (8-16 contacts; contact length 2 mm, diameter 0.8 mm, spacing 1.5 mm) implanted stereotactically with robotic assistance; placement determined solely by clinical requirements (Figshare record).",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 126,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 5,
+    "TriggerChannelCount": 1
+}

@@ -1,0 +1,8 @@
+﻿participant_id	Sex	Age	Education-years	Seizure-onset	Electrodes-of-frontal-eye-field	Electrodes-of-hippocampus
+sub-01	male	27	15	Left-central-gyrus	B7-9/L10-12	F1-3
+sub-02	male	18	12	Uncertain	F7-9	H1-3
+sub-03	male	34	15	Right-hippocampus 	A10-12	D1-3/L1-3
+sub-04	male	25	16	Left-occipital-lobe	A10-12	C1-3
+sub-05	male	23	18	Right-hippocampus-amygdala	D10-12	F1-3
+sub-06	female	20	9	Left-hippocampus-amygdala	C10-12	F1-3
+sub-07	male	56	9	Bilatera-medial-temporal-lobe	A10-12	D1-3/I1-3

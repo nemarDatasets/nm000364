@@ -1,0 +1,149 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+A1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+A'14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B'10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B'11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+B'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C'14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+D14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E'13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E'14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E'15	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+E'16	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F'13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F'14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F'15	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+F'16	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+G14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H'11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H'12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H'13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+H'14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I11	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I12	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I13	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+I14	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+J10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K1	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K2	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K3	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K4	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K5	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K6	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K7	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K8	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K9	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+K10	SEEG	µV	n/a	n/a	SEEG depth-electrode contact	2048.0	good	n/a
+C128	MISC	µV	n/a	n/a	Amplifier input with the Nicolet default name; not assigned to an electrode contact in the source	2048.0	good	n/a
+DC1	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC2	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC3	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC4	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC5	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC6	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC7	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC8	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC9	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC10	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC11	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC12	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC13	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC14	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC15	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+DC16	ADC	µV	n/a	n/a	Nicolet DC (auxiliary analog) input; not described by the source	2048.0	good	n/a
+TRIG	TRIG	µV	n/a	n/a	Nicolet trigger input; not decoded (see README)	2048.0	good	n/a
+OSAT	MISC	%	n/a	n/a	Oxygen-saturation input (EDF unit %)	2048.0	bad	flat: constant value over the whole recording
+PR	MISC	n/a	n/a	n/a	Pulse-rate input (EDF unit bpm)	2048.0	bad	flat: constant value over the whole recording
+Pleth	MISC	µV	n/a	n/a	Plethysmogram input	2048.0	bad	flat: constant value over the whole recording

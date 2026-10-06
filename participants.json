@@ -1,0 +1,29 @@
+{
+    "participant_id": {
+        "Description": "Participant code from the source."
+    },
+    "age": {
+        "Description": "Age in years (source column 'Age').",
+        "Units": "year"
+    },
+    "sex": {
+        "Description": "Sex (source column 'Sex': male/female).",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "education_years": {
+        "Description": "Years of education (source column 'Education-years').",
+        "Units": "year"
+    },
+    "seizure_onset": {
+        "Description": "Seizure-onset zone, verbatim from the source column 'Seizure-onset' (spelling kept, e.g. 'Bilatera-medial-temporal-lobe')."
+    },
+    "electrodes_frontal_eye_field": {
+        "Description": "Contacts the authors list as frontal eye field, verbatim from the source column 'Electrodes-of-frontal-eye-field' (shaft letter + contact range; '/' separates shafts). Not mapped to channel names here: the notation omits the prime marks used in some channel labels."
+    },
+    "electrodes_hippocampus": {
+        "Description": "Contacts the authors list as hippocampus, verbatim from the source column 'Electrodes-of-hippocampus' (same notation)."
+    }
+}
