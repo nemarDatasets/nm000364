@@ -77,11 +77,16 @@ The source EDF headers contain a hospital record number, the date of birth and t
 source `scans.tsv` files contain the real recording dates. The EDF+ annotation signals of sub-06 and sub-07 hold a
 `Montage:` entry that contains a personal name (the files do not say whose; it may be the name of a montage or of a
 staff member, or a patient). For this copy:
-- EDF patient field set to `X X X X`, recording field to `Startdate 01-JAN-1985 X X X`, start date to `01.01.85`.
-  The time of day is kept.
+
+Dates truncated to month (day set to 01).
+
+- EDF patient field (hospital record number, sex, date of birth) set to `X X X X`. Recording field set to
+  `Startdate 01-MMM-YYYY X X X` and start date to `01.MM.YY`, keeping the source year and month. The time of day is
+  kept.
 - In sub-06 and sub-07, the text after `Montage:` in the EDF+ annotation signal is replaced by `X` characters of
   the same byte length. Other annotations ("Clip Note", "Gain/Filter Change", "renwu") are kept.
-- `scans.tsv` dates are replaced by 1985-01-01. Times of day and the interval between the two sub-03 runs are kept.
+- `scans.tsv` acq_time keeps year, month and time of day, with the day set to 01. The two sub-03 runs were
+  recorded on the same day, so the interval between them is kept.
 - A byte comparison against the source confirmed that no other byte changed: all signal samples are identical
   to the Figshare files.
 - The source EDF and `scans.tsv` files are therefore **not** included in `sourcedata/`. The other source files
