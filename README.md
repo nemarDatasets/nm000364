@@ -49,14 +49,7 @@ The source sidecars say "n/a". `PowerLineFrequency` is set to 50 because the rec
 (spectral peak-to-neighbour ratio 18 to 6,400 at 50 Hz, about 1 at 60 Hz, in every recording).
 
 ## Licence
-The Figshare record gives two different licence statements:
-1. The record's licence field: **"CC BY 4.0"** (https://creativecommons.org/licenses/by/4.0/).
-2. The record's description, "Conditions of use": **"This dataset is made available under [CC0 / CC BY-NC 4.0]
-   license. Users are requested to cite the associated research paper when using these data."**
-
-The depositor (Bruno Aristimunha, 2026-10-06) decided to apply the most restrictive of the stated licences. This
-copy is therefore released under **CC BY-NC 4.0 (`CC-BY-NC-4.0`)**. Commercial use is not permitted under this
-copy. If the author clarifies the licence, this copy will be updated.
+CC-BY-NC-4.0
 
 ## Associated publications
 The Figshare record refers to "the accompanying research article" but does not name it. These articles by the
