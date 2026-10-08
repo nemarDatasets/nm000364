@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Task-SEEG recordings from epilepsy patients performing a visual working memory task (Tian, Figshare 32189838)",
-  "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Intracranial depth electrodes were placed solely for clinical evaluation, and data were sampled at 2048 Hz in eight continuous recordings. The dataset supports investigation of neural mechanisms of working memory, including hippocampal and frontal eye field activity.",
-  "methods_description": "SEEG was recorded with multi-contact depth electrodes (8-16 contacts, 1.5 mm spacing) implanted stereotactically with robotic assistance, using a Nicolet EEG amplifier at 2048 Hz with a white matter online reference selected by the clinical team. Participants performed a visual working memory task. EDF files were de-identified without altering signal samples.",
+  "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Depth electrodes were placed solely for clinical evaluation, and recordings were sampled at 2048 Hz, totaling about 6.2 hours across eight EDF recordings. This BIDS iEEG copy is de-identified and includes participant information such as seizure-onset zone and the contacts in the frontal eye field and hippocampus. It contains no events, behavioral files or electrode coordinates.",
+  "methods_description": "Intracranial multi-contact depth electrodes (8-16 contacts) were stereotactically implanted with robotic assistance, with placement determined solely by clinical needs. Signals were recorded with a Nicolet EEG amplifier at 2048 Hz, referenced to a white matter site chosen by the clinical team, while participants performed a visual working memory task.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -11,7 +11,7 @@
   },
   "keywords": [
     {
-      "term": "Stereo-electroencephalography"
+      "term": "stereo-electroencephalography"
     },
     {
       "term": "SEEG"
@@ -20,14 +20,12 @@
       "term": "intracranial EEG"
     },
     {
+      "term": "working memory"
+    },
+    {
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Memory, Short-Term",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D008570"
     },
     {
       "term": "Hippocampus",
@@ -80,5 +78,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "32cf18da02306a16d3ee9b902c6d7694a9c277d1fb9b657d4b653d891f1c6e5a"
+  "source_hash": "d8b4c13d219adfcbec422a488be9615141461d6ec6cfb4e6bd9753f7db5cca21"
 }
