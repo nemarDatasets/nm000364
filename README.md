@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000364-blue)](https://doi.org/10.82901/nemar.nm000364)
+
 # Task-SEEG recordings from epilepsy patients performing a visual working memory task
 
 This is a BIDS (iEEG) copy of the Figshare dataset
