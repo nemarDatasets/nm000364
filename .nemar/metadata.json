@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Task-SEEG recordings from epilepsy patients performing a visual working memory task (Tian, Figshare 32189838)",
-  "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Electrodes were clinically placed depth contacts, including sites in hippocampus and frontal eye field, sampled at 2048 Hz. The dataset supports investigation of intracranial neural mechanisms of working memory and is provided as a de-identified BIDS iEEG copy of a Figshare deposit.",
-  "methods_description": "Intracranial multi-contact depth electrodes (8-16 contacts, 1.5 mm spacing) were stereotactically implanted with robotic assistance for clinical evaluation. Signals were recorded with a Nicolet EEG amplifier at 2048 Hz using a white matter online reference, while participants performed a visual working memory task. Data are stored as continuous EDF files.",
+  "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Depth electrodes were placed solely for clinical evaluation, and continuous 2048 Hz recordings are provided in BIDS iEEG format. The data support investigation of the neural mechanisms of working memory, including hippocampal and frontal eye field activity.",
+  "methods_description": "Intracranial multi-contact depth electrodes (8-16 contacts) were stereotactically implanted with robotic assistance. Signals were recorded with a Nicolet EEG amplifier at 2048 Hz, using a white matter online reference selected by the clinical team. Participants performed a visual working memory task.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -14,17 +14,18 @@
       "term": "stereo-electroencephalography"
     },
     {
+      "term": "SEEG"
+    },
+    {
       "term": "intracranial EEG"
+    },
+    {
+      "term": "working memory"
     },
     {
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Memory, Short-Term",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D008570"
     },
     {
       "term": "Hippocampus",
