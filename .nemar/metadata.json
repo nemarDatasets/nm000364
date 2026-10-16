@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Tian-2026-distinct-10.1016/j.neuroimage.2026.121838",
+  "title": "Task-SEEG recordings from epilepsy patients performing a visual working memory task (Tian, Figshare 32189838)",
   "description": "Stereo-electroencephalography (SEEG) recordings from seven patients with drug-resistant epilepsy performing a visual working memory task. Electrodes were clinically placed depth contacts, including sites in hippocampus and frontal eye field, sampled at 2048 Hz. The dataset supports investigation of intracranial neural mechanisms of working memory and is provided as a de-identified BIDS iEEG copy of a Figshare deposit.",
   "methods_description": "Intracranial multi-contact depth electrodes (8-16 contacts, 1.5 mm spacing) were stereotactically implanted with robotic assistance for clinical evaluation. Signals were recorded with a Nicolet EEG amplifier at 2048 Hz using a white matter online reference, while participants performed a visual working memory task. Data are stored as continuous EDF files.",
   "license": "CC-BY-NC-4.0",
@@ -77,5 +77,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "dce492f9d1bba64f5bfbacd22952fbd590bf66b3c9afa3516e53c49933dae34e"
+  "source_hash": "c67d7a2449ddb1bccbe08931574848a520aaf5508716cbfa011e4d994a08a861"
 }
