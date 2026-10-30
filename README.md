@@ -53,6 +53,13 @@ The source sidecars say "n/a". `PowerLineFrequency` is set to 50 because the rec
 ## Licence
 CC-BY-NC-4.0
 
+The Figshare record states its licence twice, and the two statements differ (both checked Oct 2026 through the Figshare
+API, article 32189838 version 1). The record's licence field is "CC BY 4.0". Its description, under "Conditions of use",
+says: "This dataset is made available under [CC0 / CC BY-NC 4.0] license." (a template that lists two options). The
+dataset_description.json `License` of this copy is CC-BY-NC-4.0, the most restrictive of the stated terms, so that use
+under it complies with every reading of the record. The depositor has not clarified which licence applies; users who
+need the CC BY 4.0 terms should check the Figshare record.
+
 ## Associated publications
 The Figshare record refers to "the accompanying research article" but does not name it. These articles by the
 same first author describe SEEG recordings during a visual working memory task with eye tracking in epilepsy
